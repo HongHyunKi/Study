@@ -1,5 +1,7 @@
 # Programmers 코딩테스트 연습 Lv 1
-#### [프로그래머스 링크](https://programmers.co.kr/learn/challenges)
+[프로그래머스 링크](https://programmers.co.kr/learn/challenges)
+
+---
 
 ## 목차
 1. [완주하지 못한 선수](#1.-완주하지-못한-선수)
