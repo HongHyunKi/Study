@@ -8,7 +8,3 @@ def solution(a, b):
     
     return answer
 
-new_id = 'asd-_.#$!@#'
-if '-' not in ['-','_','.']:
-    print('있')
-
