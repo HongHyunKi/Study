@@ -4,8 +4,3 @@ def solution(arr):
     else:
         arr.remove(min(arr))
     return arr
-
-a = [1,2,3,4]
-b = [10]
-print(solution(a))
-print(solution(b))

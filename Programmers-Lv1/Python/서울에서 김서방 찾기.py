@@ -9,9 +9,3 @@ def solution(n):
     
     return sum(answer)
     
-    
-
-a = 123
-print(solution(a))
-
-print([int(i) for i in str(a)])
