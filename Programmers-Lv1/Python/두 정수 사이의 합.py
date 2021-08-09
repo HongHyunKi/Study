@@ -7,3 +7,8 @@ def solution(a, b):
         answer += i
     
     return answer
+
+new_id = 'asd-_.#$!@#'
+if '-' not in ['-','_','.']:
+    print('있')
+
