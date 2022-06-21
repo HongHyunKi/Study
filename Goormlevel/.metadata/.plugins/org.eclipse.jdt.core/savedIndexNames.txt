@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\qksw5\OneDrive\문서\GitHub\SW몰입형 예비과정\Study\Goormlevel\.metadata\.plugins\org.eclipse.jdt.core
+3883950653.index
